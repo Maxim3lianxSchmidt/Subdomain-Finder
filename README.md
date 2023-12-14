@@ -1,7 +1,7 @@
 # Subdomain-Finder
  A Python script for discovering subdomains through DNS querying, web scraping, and API calls, with multithreading and result filtering.
  
-<img alt="YAP" src="https://imgur.com/a/Dld3DZR">
+<img alt="YAP" src="https://i.imgur.com/JFaaU8V.png">
 
 -/ Free Lifetime Usage ( No License )
 
